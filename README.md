@@ -10,4 +10,4 @@ The Musicology webpage is a responsive page designed to facilitate user engageme
 - **Outcome**: The Musicology website successfully demonstrates my proficiency in HTML, CSS, and responsive web design.
 
 ## Public Link:
-Here is the link to view this project live: https://benevolent-faun-990d70.netlify.app/
+Here is the link to view this project live: <a href="https://benevolent-faun-990d70.netlify.app/" target="_blank">Musicology App</a>
